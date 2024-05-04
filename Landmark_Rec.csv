@@ -1,0 +1,89 @@
+LandmarkID,Name,Category,Tags,Location,PopularityScore
+1,Oberoi Garden City,Residential Buildings,#Residential #Apartment #GardenCity #Luxury,Goregaon,9
+2,Kala Ghoda,Art & Culture,#Art #Culture #Heritage #Festival,South Mumbai,8
+3,Vivekanand Education Society_s Institute of Technology (VESIT) - Chembur,Educational Institutions,#Education #College #Technology #Engineering,Chembur,8
+4,One Indiabulls Centre,Commercial Buildings,#Commercial #Office #Business #Skyscraper,Lower Parel,9
+5,"Haji Ali Dargah, Worli",Religious Places,#Religious #Mosque #Islamic #Pilgrimage,Worli,9
+6,"The Oberoi, Mumbai",Hotels,#Hotel #Luxury #Hospitality #FiveStar,Nariman Point,9
+7,Babulnath Temple,Religious Places,#Religious #Temple #Hindu #Worship,Malabar Hill,8
+8,"Wadiaji Atash Behram, Grant Road",Religious Places,#Religious #Temple #Hindu #FireTemple,Grant Road,7
+9,Imperial Towers,Architectural Marvels,#Architectural #Skyscraper #Luxury #Residential,Tardeo,9
+10,St. Xavier_s College - Fort,Educational Institutions,#Education #College #University #Catholic,Fort,9
+11,Sanjay Gandhi National Park,Gardens & Parks,#Park #Nature #Wildlife,Borivali,9
+12,"Gloria Church, Byculla",Religious Places,#Religious #Church #Christian #Historic,Byculla,8
+13,Raheja Towers,Commercial Buildings,#Commercial #Office #Business #Skyscraper,Worli,8
+14,Wilson College - Chowpatty,Educational Institutions,#Education #College #University #LiberalArts,Chowpatty,7
+15,Rizvi College of Engineering - Bandra,Educational Institutions,#Education #College #Engineering #Technology,Bandra,8
+16,"Teerthdham Mangalayatan, Vasai",Religious Places,#Religious #Temple #Hindu #Pilgrimage,Vasai,7
+17,Rajiv Gandhi Institute of Technology (RGIT) - Versova,Educational Institutions,#Education #College #Technology #Engineering,Versova,7
+18,Powai Lake,Gardens & Parks,#Lake #Park #Nature #Scenic,Powai,8
+19,"Mahalakshmi Temple, Mahalaxmi",Religious Places,#Religious #Temple #Hindu #Worship,Mahalaxmi,8
+20,Sion Fort,Historical Sites,#Historical #Fort #Heritage #Ancient,Sion,7
+21,Grant Medical College - Byculla,Educational Institutions,#Education #College #Medical #Healthcare,Byculla,8
+22,Taraporewala Aquarium,Tourist Attractions,#Aquarium #TouristSpot #MarineLife #Education,Marine Drive,8
+23,Sewri Fort,Historical Sites,#Historical #Fort #Heritage #Ancient,Sewri,6
+24,Bandra-Worli Sea Link,Architectural Marvels,#Architectural #Bridge #Engineering #SeaLink,Mumbai,10
+25,Reserve Bank of India (RBI) building,Government Buildings,#Government #Bank #Financial #Monument,Fort,8
+26,The Leela Mumbai,Hotels,#Hotel #Luxury #Hospitality #FiveStar,Andheri,9
+27,Gilbert Hill,Natural Landmarks,#Natural #Hill #Geological #Scenic,Andheri,7
+28,The Asiatic Society of Mumbai,Museums & Art Galleries,#Museum #ArtGallery #Cultural #History,Fort,9
+29,"Magen David Synagogue, Byculla",Religious Places,#Religious #Synagogue #Jewish #Heritage,Byculla,7
+30,National Institute of Fashion Technology (NIFT) Mumbai - Kharghar,Educational Institutions,#Education #College #Fashion #Design,Kharghar,8
+31,Pillai College of Engineering - Panvel,Educational Institutions,#Education #College #Engineering #Technology,Panvel,7
+32,Indian Institute of Technology (IIT) Bombay - Powai,Educational Institutions,#Education #College #University #Technology,Powai,9
+33,Rustomjee Business School - Dahisar,Educational Institutions,#Education #College #Business #Management,Dahisar,7
+34,Sophia College for Women - Peddar Road,Educational Institutions,#Education #College #University #Women,Peddar Road,8
+35,SNDT Women_s University - Churchgate,Educational Institutions,#Education #College #University #Women,Churchgate,7
+36,Khada Parsi Statue,Monuments & Sculptures,#Monument #Sculpture #Historic #Art,Byculla,7
+37,"Siddhivinayak Temple, Prabhadevi",Religious Places,#Religious #Temple #Hindu #Worship,Prabhadevi,9
+38,Sir J.J. College of Architecture - Fort,Educational Institutions,#Education #College #Architecture #Design,Fort,8
+39,Bhau Daji Lad Museum,Museums & Art Galleries,#Museum #ArtGallery #Heritage #Cultural,Byculla,8
+40,Antilia,Architectural Marvels,#Architectural #Skyscraper #Luxury #Residence,Altamount Road,9
+41,Ghodbunder Fort,Historical Sites,#Historical #Fort #Heritage #Ancient,Ghodbunder,6
+42,Veermata Jijabai Technological Institute (VJTI) - Matunga,Educational Institutions,#Education #College #Technology #Engineering,Matunga,8
+43,Taj Mahal Palace Hotel,Hotels,#Hotel #Luxury #Historic #Hospitality,Colaba,10
+44,Afghan Church,Religious Places,#Religious #Church #Christian #Historic,Colaba,8
+45,M.H. Saboo Siddik College of Engineering - Byculla,Educational Institutions,#Education #College #Engineering #Technology,Byculla,7
+46,Rajabai Clock Tower,Architectural Marvels,#Architectural #Tower #Historic #ClockTower,Fort,8
+47,Vasai Fort,Historical Sites,#Historical #Fort #Heritage #Ancient,Vasai,8
+48,Bombay Art Society,Art & Culture,#Art #Culture #Society #Exhibition,Bandra,7
+49,Kanheri Caves,Historical Sites,#Historical #Caves #Buddhist #Heritage,Borivali,9
+50,Nehru Centre,Cultural Centers,#Cultural #Center #Museum #Events,Worli,8
+51,Flora Fountain,Historical Sites,#Historical #Fountain #Heritage #Landmark,Fort,9
+52,Bombay Stock Exchange (BSE),Financial Institutions,#Financial #StockExchange #Market #Economy,Fort,9
+53,"St. Michael_s Church, Mahim",Religious Places,#Religious #Church #Christian #Worship,Mahim,8
+54,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Museums & Art Galleries,#Museum #ArtGallery #History #Culture,Colaba,9
+55,"Walkeshwar Temple, Walkeshwar",Religious Places,#Religious #Temple #Hindu #Worship,Walkeshwar,7
+56,Nirlon Knowledge Park,Commercial Buildings,#Commercial #Office #Business #Technology,Goregaon,8
+57,Royal Opera House Mumbai,Cultural Centers,#Cultural #OperaHouse #Entertainment #Music,Mumbai,7
+58,"ISKCON Temple, Juhu",Religious Places,#Religious #Temple #Hindu #Devotion,Juhu,8
+59,Taj Lands End,Hotels,#Hotel #Luxury #Seaside #Hospitality,Bandra,8
+60,Jama_Masjid,Religious Places,#Religious #Mosque #Islamic #Prayer,South Mumbai,9
+61,Elphinstone college,Educational Institutions,#Education #College #University #Heritage,Fort,7
+62,Marine Drive,Other,#Promenade #Sea #Iconic #Scenic,Mumbai,10
+63,Tata Institute of Social Sciences (TISS) - Deonar,Educational Institutions,#Education #College #SocialSciences #Research,Deonar,8
+64,Sardar Patel Institute of Technology (SPIT) - Andheri West,Educational Institutions,#Education #College #Technology #Engineering,Andheri West,8
+65,Jai Hind College - Churchgate,Educational Institutions,#Education #College #University #Arts,Churchgate,7
+66,SIES Graduate School of Technology - Nerul,Educational Institutions,#Education #College #Technology #Engineering,Nerul,7
+67,Banganga Tank,Religious Places,#Religious #Tank #Heritage #Sacred,Malabar Hill,8
+68,Regal Cinema,Entertainment,#Cinema #MovieTheater #Entertainment #Film,Colaba,8
+69,Narsee Monjee Institute of Management Studies - Vile Parle,Educational Institutions,#Education #College #Business #Management,Vile Parle,8
+70,Renaissance Mumbai Convention Centre Hotel,Hotels,#Hotel #ConventionCentre #Luxury #Hospitality,Powai,8
+71,Gateway of India,Architectural Marvels,#Architectural #Monument #Historic #Landmark,Colaba,10
+72,David Sassoon Library and Reading Room,Museums & Art Galleries,#Library #ArtGallery #Reading #Heritage,Fort,7
+73,Mahalaxmi Racecourse,Other,#Racecourse #Sports #Entertainment #HorseRacing,Mahalaxmi,8
+74,Worli Sea Face,Other,#Promenade #Sea #Scenic #Relaxation,Worli,9
+75,Mani Bhavan Gandhi Museum,Museums & Art Galleries,#Museum #History #Gandhi #Culture,Gamdevi,8
+76,Victoria Terminus (Chhatrapati Shivaji Maharaj Terminus),Architectural Marvels,#Architectural #Monument #Railway #Historic,Fort,10
+77,Hanging Gardens,Gardens & Parks,#Garden #Park #Nature #Greenery,Malabar Hill,8
+78,"University of Mumbai - Kalina, Santacruz",Educational Institutions,#Education #College #University #Campus,"Kalina, Santacruz",9
+79,Worli Fort,Historical Sites,#Historical #Fort #Heritage #Defense,Worli,7
+80,Jamnalal_Bajaj_Institute_of_Management_Studies_(JBIMS),Educational Institutions,#Education #College #Management #Business,Churchgate,8
+81,"Global Vipassana Pagoda, Gorai",Religious Places,#Religious #Pagoda #Meditation #Spiritual,Gorai,8
+82,S.P. Jain Institute of Management and Research (SPJIMR) - Andheri West,Educational Institutions,#Education #College #Management #Business,Andheri West,9
+83,Mumba Devi Temple,Religious Places,#Religious #Temple #Hindu #Worship,Zaveri Bazaar,7
+84,Lokmanya Tilak Terminus,Other,#Railway #Transport #Terminus #Travel,Kurla,7
+85,K. J. Somaiya College of Engineering - Vidyavihar,Educational Institutions,#Education #College #Engineering #Technology,Vidyavihar,8
+86,Peninsula Corporate Park,Commercial Buildings,#Commercial #Office #Business #Corporate,Lower Parel,7
+87,Bombay High Court,Government Buildings,#Government #Court #Legal #Justice,Fort,9
+88,St. Thomas Cathedral,Religious Places,#Religious #Church #Christian #Worship,Fort,8
